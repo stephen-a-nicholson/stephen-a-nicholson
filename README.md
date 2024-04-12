@@ -1,15 +1,15 @@
 # Hi, I'm Stephen Nicholson 👋
 
-I'm a Data Engineer passionate about building scalable data pipelines, optimizing processes, and implementing MLOps best practices to drive insights and business value.
+I'm a Data Engineer passionate about building scalable data pipelines, optimising processes, and implementing MLOps best practises to drive insights and business value.
 
 ## 🔧 Skills & Tools
 Python | SQL | R | Apache Spark | Apache Arrow | Polars | Neo4j | PySpark | AWS | Docker | Airflow | Git | Linux
 
 ## 💼 Experience Highlights
-- Developed high-performance data pipelines, reducing processing times by 65%
-- Implemented ETL pipelines, improving fraud detection accuracy by 20%
-- Engineered Python/PySpark pipelines, saving £7 million by detecting fraudsters
-- Created a Python app, boosting team productivity by 25%
+- Developed high-performance data pipelines using Apache Arrow and Polars, reducing processing times by 65%
+- Implemented sophisticated ETL pipelines and feature engineering with Apache Spark and Python, improving fraud detection model accuracy by 20%
+- Engineered Python/PySpark pipelines to integrate customer data into Neo4j graph database, saving £7 million by identifying fraudulent activities
+- Created a Python app to automate bot statistics reporting, boosting team productivity by 25%
 
 ## 🌟 Interests
 - Software Engineering
@@ -20,4 +20,4 @@ Python | SQL | R | Apache Spark | Apache Arrow | Polars | Neo4j | PySpark | AWS 
 - [LinkedIn](https://www.linkedin.com/in/stephen-nicholson/)
 - [GitHub](https://github.com/stephen-a-nicholson)
 
-Feel free to explore my repositories and projects below. I'm always excited to collaborate and work on interesting data engineering, machine learning, and software engineering challenges!
+Let's collaborate on exciting data engineering, machine learning, and software engineering projects!
