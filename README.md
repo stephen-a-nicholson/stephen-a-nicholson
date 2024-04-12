@@ -1,35 +1,22 @@
-# Hi there! 👋 I'm Stephen Nicholson
+# Hi, I'm Stephen Nicholson 👋
 
-## About Me
-- 🔭 I'm currently working as a Data Engineer at Smart Data Foundry in Edinburgh
-- 🌱 I'm passionate about data engineering, machine learning, and leveraging data to drive insights and business value
-- 👯 I enjoy collaborating on projects that involve building scalable data pipelines, optimising data processes, and implementing MLOps best practices
-- 💬 Ask me about data engineering, Python, Apache Spark, graph databases, and machine learning
-- 📫 How to reach me: stephen.nicholson1@hotmail.co.uk
-- 📄 Check out my [CV](https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen_Nicholson_CV.pdf) for more details about my experience and skills
+I'm a Data Engineer passionate about building scalable data pipelines, optimizing processes, and implementing MLOps best practices to drive insights and business value.
 
-## Skills
-- Programming Languages: Python, SQL, R
-- Frameworks/Libraries: Apache Spark, Apache Arrow, Polars, Neo4j, PySpark
-- Tools: AWS, Docker, Airflow, Git, Linux
-- Areas of Expertise: Data Engineering, ETL, Machine Learning, Data Science, Graph Databases, MLOps
+## 🔧 Skills & Tools
+Python | SQL | R | Apache Spark | Apache Arrow | Polars | Neo4j | PySpark | AWS | Docker | Airflow | Git | Linux
 
-## Experience Highlights
-- Developed high-performance data pipelines using Apache Arrow and Polars in Python at Smart Data Foundry, reducing processing times by 65%
-- Implemented sophisticated ETL pipelines using Apache Spark and Python at NatWest Group, improving fraud detection model accuracy by 20%
-- Engineered Python/PySpark pipelines to integrate customer data into Neo4j graph database at NatWest Group, saving £7 million by detecting fraudsters
-- Created a Python app to automate bot statistics reporting at Momenta Group Global, boosting team productivity by 25%
+## 💼 Experience Highlights
+- Developed high-performance data pipelines, reducing processing times by 65%
+- Implemented ETL pipelines, improving fraud detection accuracy by 20%
+- Engineered Python/PySpark pipelines, saving £7 million by detecting fraudsters
+- Created a Python app, boosting team productivity by 25%
 
-## Education
-- M.Sc. in Big Data with Distinction, University of Stirling
-- B.Sc. in Computer Science, University of Stirling
-- Nanodegree in Data Engineering, Udacity
+## 🌟 Interests
+- Software Engineering
+- Learning New Languages (Rust, Go)
 
-## Interests
-- 🖥️ Software Engineering: I have a strong interest in software engineering principles and best practices, and I enjoy building robust and efficient software solutions
-- 🌍 Learning New Languages: I'm always excited to learn new programming languages and expand my skill set. Currently, I'm interested in exploring languages like Rust and Go
-
-## Let's Connect!
+## 📄 CV & 🌐 Connect
+- [CV](https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen_Nicholson_CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/stephen-nicholson/)
 - [GitHub](https://github.com/stephen-a-nicholson)
 
