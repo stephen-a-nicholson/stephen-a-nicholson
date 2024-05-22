@@ -5,7 +5,7 @@
 
 [![Linkedin: stephen-nicholson](https://img.shields.io/badge/-stephennicholson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephen-nicholson/)](https://www.linkedin.com/in/stephen-nicholson/)
 [![GitHub stephen-a-nicholson](https://img.shields.io/github/followers/stephen-a-nicholson?label=follow&style=social)](https://github.com/stephen-a-nicholson)
-[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&color=red&link=https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen_Nicholson_CV.pdf)](https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen_Nicholson_CV.pdf)
+[![CV](https://img.shields.io/badge/CV-Download-informational?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&color=red&link=https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen Nicholson - CV.pdf)](https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen_Nicholson_CV.pdf)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
