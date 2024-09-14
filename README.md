@@ -7,7 +7,7 @@
 [![GitHub stephen-a-nicholson](https://img.shields.io/github/followers/stephen-a-nicholson?label=follow&style=social)](https://github.com/stephen-a-nicholson)
 [![CV](https://img.shields.io/badge/CV-Download-informational?style=flat-square&logo=adobe-acrobat-reader&logoColor=white&color=red&link=https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen%20Nicholson%20-%20CV.pdf)](https://github.com/stephen-a-nicholson/stephen-a-nicholson/blob/main/Stephen%20Nicholson%20-%20CV.pdf)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```python
 class DataEngineer:
