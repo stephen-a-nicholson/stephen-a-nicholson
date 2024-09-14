@@ -1,5 +1,4 @@
 <h2> Hi, I'm Stephen Nicholson! </h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNzODNmNHI1N2w3eHJwdXVwOXBoeTR3a3o4bHhsdDgxYWthNzRsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sgetPM00wWqJpVUTl/giphy.gif" width="230">
 <p><em>Data Engineer
 </em></p>
 
